@@ -23,7 +23,7 @@ body{
     position: relative;
     padding: 1px;
 }
-#w_logo{{
+#w_logo{
     width: 40%;
     float: left;
 }
@@ -104,9 +104,7 @@ body{
     float:left;
 }
 .s_uzruna_teksts{
-  {
     clear: both;
-}
 }
 @media screen and (max-width: 700px){
 body{
