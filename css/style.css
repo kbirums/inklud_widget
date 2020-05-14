@@ -111,6 +111,10 @@ body{
 .uzruna_teksts{
   display:none;
 }
-
+.elementi{
+    display: flex;
+    overflow: hidden;
+    overflow-x: scroll;
+}
 
 }
