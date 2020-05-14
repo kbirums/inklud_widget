@@ -106,6 +106,13 @@ color: black;
 }
 
 @media screen and (max-width: 700px){
+body{
+    width: 100%
+  }
+  .raksts{
+    width: 100%
+    padding:5px;
+  }
 .uzruna_teksts{
   display:none;
 }
