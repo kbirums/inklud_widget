@@ -87,21 +87,30 @@ body{
     position: relative;
     width: 300px;
     background: white;
-    height: 900px;
+    margin: 0 auto;
 }
 .s_elements_item {
     min-width: 190px;
     background: white;
     width: 100%;
-    float: left;
     position: relative;
     margin: 4px;
     border: 1px solid #f1f1f1;
+    align-items: stretch;
+    flex-wrap: wrap;
+    float: left;
+    display: flex;
+}
 }
 #s_logo{
     width: 90%;
     margin: 0 auto;
     float:left;
+}
+.s_element_info {
+    min-height: 100px;
+    position: relative;
+    padding: 0 10px 10px 10px;
 }
 .s_uzruna_teksts{
     clear: both;
