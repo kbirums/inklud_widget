@@ -67,9 +67,10 @@ body{
   font-size: 0.9rem;
 }
 .virsraksts {
-  text-transform: uppercase;
-  font-size: 1.1rem;
-  padding: 5px 0;
+    text-transform: uppercase;
+    font-size: 1.1rem;
+    font-weight: 500;
+    padding: 5px 0;
 }
 .pavadteksts {
   font-size: 0.8rem;
