@@ -41,10 +41,10 @@ body{
     position: absolute;
     top: 1;
 }
-.w_elements_item{
+.w_elements_item {
     min-width: 190px;
-    background:white;
-    width: 19%;
+    background: white;
+    width: 25%;
     float: left;
     position: relative;
     margin: 5px;
