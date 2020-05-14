@@ -28,11 +28,14 @@ height:900px;
   padding:1px;
   height: 200px;
 }
-.w_uzruna{
-  padding:1px;
+.w_uzruna {
+    position: relative;
+    padding: 1px;
 }
 .w_uzruna_items{
-  position: absolute;
+    z-index: 1;
+    position: absolute;
+    top: 1;
 }
 .w_elements_item{
     min-width: 190px;
