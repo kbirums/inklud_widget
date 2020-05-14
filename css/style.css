@@ -70,13 +70,13 @@ body{
   font-size: 0.98rem;
 }
 .poga {
-    width: 90%;
     background: #424242;
     color: white;
     padding: 5px;
     text-align: center;
+    bottom: 5px;
     position: absolute;
-    bottom: 10px;
+    width: 90%;
 }
 .poga:hover{
   background: #f5cc05;
@@ -90,10 +90,8 @@ body{
     margin: 0 auto;
 }
 .s_elements_item {
-    min-width: 190px;
-    background: white;
-    position: relative;
-    margin: 4px;
+    width: 100%;
+    margin: 4px 0;
     border: 1px solid #f1f1f1;
     display: block;
 }
