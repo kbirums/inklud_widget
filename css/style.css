@@ -59,9 +59,9 @@ body{
     padding: 0 10px 10px 10px;
 }
 .picture {
-  width: 100%;
-  padding: 10px;
-  height: 170px;
+    width: 100%;
+    padding: 5px 10px;
+    height: 170px;
 }
 .element_kategorija {
   font-size: 0.9rem;
