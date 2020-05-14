@@ -101,7 +101,6 @@ body{
     float: left;
     display: flex;
 }
-}
 #s_logo{
     width: 90%;
     margin: 0 auto;
@@ -115,6 +114,8 @@ body{
 .s_uzruna_teksts{
     clear: both;
 }
+
+
 @media screen and (max-width: 700px){
 body{
     width: 100%;
