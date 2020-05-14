@@ -23,7 +23,7 @@ body{
     position: relative;
     padding: 1px;
 }
-#logo1{
+#w_logo{{
     width: 40%;
     float: left;
 }
@@ -98,6 +98,16 @@ body{
     margin: 4px;
     border: 1px solid #f1f1f1;
 }
+.s_logo{
+    width: 90%;
+    margin: 0 auto;
+    float:left;
+}
+.s_uzruna_teksts{
+  {
+    clear: both;
+}
+}
 @media screen and (max-width: 700px){
 body{
     width: 100%;
@@ -119,7 +129,7 @@ body{
     overflow: hidden;
     overflow-x: scroll;
 }
-#logo1 {
+#w_logo{
     margin: 0 auto;
     width: 90%;
 }
