@@ -24,12 +24,17 @@ body{
     padding: 1px;
 }
 #w_logo{
-    width: 40%;
+    width: 39%;
     float: left;
 }
 .w_uzruna_items {
+    padding: 10px;
     position: absolute;
     top: 1;
+}
+.uzruna_teksts{
+    float: right;
+    width: 59%;
 }
 .w_elements_item {
     min-width: 190px;
