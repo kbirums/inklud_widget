@@ -24,9 +24,9 @@ body{
   background: white;
   height: 900px;
 }
-.widget-header{
-  padding:1px;
-  height: 150px;
+.widget-header {
+    padding: 1px;
+    height: 120px;
 }
 .w_uzruna {
     position: relative;
