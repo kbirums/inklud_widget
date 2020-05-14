@@ -27,6 +27,7 @@ body{
 .widget-header {
     padding: 1px;
     height: 120px;
+    width: 100%;
 }
 .w_uzruna {
     position: relative;
@@ -102,4 +103,10 @@ body{
 .poga:hover{
 background: #f5cc05;
 color: black;
+}
+
+@media screen and (max-width: 700px){
+
+
+
 }
