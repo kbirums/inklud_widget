@@ -107,12 +107,13 @@ body{
     float:left;
 }
 .s_element_info {
-    min-height: 100px;
+    min-height: 130px;
     position: relative;
     padding: 0 10px 10px 10px;
 }
-.s_uzruna_teksts{
+.s_uzruna_teksts {
     clear: both;
+    text-align: center;
 }
 
 
