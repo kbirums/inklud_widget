@@ -1,4 +1,14 @@
-.raksts{
+* {
+    box-sizing: border-box;
+    font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica;
+    object-fit: cover;
+}
+html{background: whitesmoke;;}
+body{
+  max-width: 1220px;
+  margin: 0 auto;
+  }
+  .raksts{
   margin:0 auto;
 width:850px;
 background:white;
