@@ -31,6 +31,9 @@ height:900px;
 .w_uzruna{
   padding:1px;
 }
+.w_uzruna_items{
+  position: absolute;
+}
 .w_elements_item{
     min-width: 190px;
     background:white;
