@@ -106,7 +106,7 @@ body{
 }
 .widget-header {
     padding: 1px;
-    height: 90px;
+    height: 100px;
     width: 100%;
 }
   .raksts{
@@ -122,6 +122,11 @@ body{
     overflow-x: scroll;
 }
 #logo1 {
-    width: 100%;
+    margin: 0 auto;
+    width: 90%;
+}
+.w_uzruna {
+    position: relative;
+    padding: 0;
 }
 }
