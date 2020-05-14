@@ -8,12 +8,12 @@ body{
   max-width: 1220px;
   margin: 0 auto;
   }
-  .raksts{
-  margin:0 auto;
-width:850px;
-background:white;
-height:900px;
-}
+  .raksts {
+      margin: 0 auto;
+      width: 850px;
+      background: white;
+      height: 470px;
+  }
 .sidebar{
   width:300px;
   background:white;
