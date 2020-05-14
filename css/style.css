@@ -103,7 +103,12 @@ color: black;
 @media screen and (max-width: 700px){
 body{
     width: 100%;
-  }
+}
+.widget-header {
+    padding: 1px;
+    height: 90px;
+    width: 100%;
+}
   .raksts{
     width: 100%;
     padding:5px;
@@ -116,5 +121,7 @@ body{
     overflow: hidden;
     overflow-x: scroll;
 }
-
+#logo1 {
+    width: 100%;
+}
 }
