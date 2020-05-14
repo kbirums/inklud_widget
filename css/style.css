@@ -33,7 +33,8 @@ height:900px;
     padding: 1px;
 }
 .logo{
-  width:300px;
+    width: 40%;
+    float: left;
 }
 .w_uzruna_items{
     z-index: 1;
