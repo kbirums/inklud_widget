@@ -8,11 +8,11 @@ body{
   max-width: 1220px;
   margin: 0 auto;
   }
-  .raksts {
+  .pirma-lapa {
       margin: 0 auto;
       width: 850px;
       background: white;
-      height: 470px;
+      height: 410px;
   }
   .widget-header {
       padding: 1px;
