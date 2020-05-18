@@ -63,8 +63,13 @@ body{
     width: 100%;
 }
 .element_info {
+    display: -webkit-box;
+    -webkit-line-clamp: 4;
+    -webkit-box-orient: vertical;
+    text-overflow: ellipsis;
     height: 110px;
     padding: 5px;
+    overflow: hidden;
 }
 .picture {
     width: 100%;
