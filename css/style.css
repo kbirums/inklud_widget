@@ -17,6 +17,8 @@ body{
   }
 
   .widget {
+      background: #ffffff94;
+      background-blend-mode: screen;
       background-image: url(https://kbirums.github.io/inklud_widget/img/1.jpg);
       padding: 8px;
       height: 100%;
