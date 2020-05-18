@@ -23,8 +23,8 @@ body{
     position: relative;
     padding: 1px;
 }
-#w_logo{
-    width: 40%;
+#w_logo {
+    width: 350px;
     float: left;
 }
 .w_uzruna_items {
@@ -32,9 +32,8 @@ body{
     top: 1;
 }
 .uzruna_teksts {
-    padding-top: 20px;
-    float: right;
-    width: 59%;
+    float: left;
+    padding-top: 30px;
 }
 #uzruna1{
     font-size: 25;
