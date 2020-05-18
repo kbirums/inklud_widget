@@ -64,11 +64,11 @@ body{
 }
 .element_info {
     display: -webkit-box;
-    -webkit-line-clamp: 4;
+    -webkit-line-clamp: 3;
     -webkit-box-orient: vertical;
     text-overflow: ellipsis;
-    height: 110px;
-    padding: 5px;
+    height: 105px;
+    padding: 0 10px;
     overflow: hidden;
 }
 .picture {
@@ -84,7 +84,9 @@ body{
     text-transform: uppercase;
     font-size: 1rem;
     font-weight: 500;
-    padding: 5px 0;
+    white-space: nowrap;
+    padding: 5px 0 10px 0;
+    overflow: hidden;
 }
 .pavadteksts {
     font-size: 0.85rem;
