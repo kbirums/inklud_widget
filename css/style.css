@@ -3,7 +3,8 @@
     font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica;
     object-fit: cover;
 }
-html{background: whitesmoke;;}
+html{background: whitesmoke;
+}
 body{
   max-width: 1220px;
   margin: 0 auto;
@@ -20,6 +21,7 @@ body{
       width: 100%;
   }
 .w_uzruna {
+  background-image: url(img/1.jpg);
     position: relative;
     padding: 1px;
 }
