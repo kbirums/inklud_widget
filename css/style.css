@@ -15,14 +15,14 @@ body{
       background: white;
       height: 410px;
   }
-  .widget {
+.widget {
       background: #ffffffcf;
       background-blend-mode: screen;
       background-image: url(https://kbirums.github.io/inklud_widget/img/1.jpg);
       padding: 15px;
       height: 100%;
   }
-  .w_uzruna {
+.w_uzruna {
       height: 100px;
       padding: 1px;
   }
@@ -68,7 +68,6 @@ body{
     padding: 7px;
 }
 .kategorija_text{
-  {
     border-bottom: 1px solid #FFC107;
     padding: 0 10px;
 }
@@ -102,7 +101,7 @@ body{
 }
 .poga {
     cursor: pointer;
-    margin: 5px;
+    margin: 7px 5px;
     background: #424242;
     color: white;
     padding: 5px;
