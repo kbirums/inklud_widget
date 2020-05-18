@@ -63,7 +63,8 @@ body{
     width: 100%;
 }
 .element_info {
-    padding: 0 10px 10px 10px;
+    height: 110px;
+    padding: 5px;
 }
 .picture {
     width: 100%;
@@ -87,12 +88,12 @@ body{
     overflow: hidden;
 }
 .poga {
+    cursor: pointer;
+    margin: 5px;
     background: #424242;
     color: white;
     padding: 5px;
     text-align: center;
-    width: 90%;
-    margin: 0 auto;
 }
 .sidebar {
     position: relative;
