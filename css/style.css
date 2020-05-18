@@ -32,9 +32,14 @@ body{
     top: 1;
 }
 .uzruna_teksts {
-    padding-top: 10px;
+    padding-top: 20px;
     float: right;
     width: 59%;
+}
+#uzruna1{
+    font-size: 25;
+    font-weight: 300;
+    text-transform: uppercase;
 }
 .w_elements_item {
     min-width: 190px;
