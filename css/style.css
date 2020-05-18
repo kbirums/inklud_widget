@@ -15,27 +15,26 @@ body{
       background: white;
       height: 410px;
   }
-  .widget{
-    background-image: url(img/1.jpg);
-      padding: 1px;
-      height: 100px;
-      width: 100%;
+
+  .widget {
+      background-image: url(https://kbirums.github.io/inklud_widget/img/1.jpg);
+      padding: 8px;
+      height: 100%;
   }
-.w_uzruna {
-    position: relative;
-    padding: 1px;
-}
+  .w_uzruna {
+      height: 100px;
+      padding: 1px;
+  }
 #w_logo {
     width: 340px;
     float: left;
 }
-.w_uzruna_items {
-    position: absolute;
-    top: 1;
-}
 .uzruna_teksts {
     float: left;
     padding-top: 30px;
+}
+.kategorija{
+    font-size: 0.8rem;
 }
 #uzruna1 {
     font-size: 25;
@@ -62,8 +61,6 @@ body{
     width: 100%;
 }
 .element_info {
-    min-height: 155px;
-    position: relative;
     padding: 0 10px 10px 10px;
 }
 .picture {
@@ -83,8 +80,8 @@ body{
     padding: 5px 0;
 }
 .pavadteksts {
-    min-height: 70px;
-    font-size: 1rem;
+    min-height: 60;
+    font-size: 0.85rem;
     overflow: hidden;
 }
 .poga {
