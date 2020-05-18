@@ -24,7 +24,7 @@ body{
     padding: 1px;
 }
 #w_logo {
-    width: 350px;
+    width: 340px;
     float: left;
 }
 .w_uzruna_items {
@@ -35,10 +35,11 @@ body{
     float: left;
     padding-top: 30px;
 }
-#uzruna1{
+#uzruna1 {
     font-size: 25;
     font-weight: 300;
     text-transform: uppercase;
+    margin: 0;
 }
 .w_elements_item {
     background: white;
@@ -47,6 +48,9 @@ body{
     position: relative;
     margin: 4px;
     box-shadow: 0px 1px 5px #80808066;
+}
+.w_elements_item:hover {
+    box-shadow: 0px 1px 5px #636363;
 }
 .Kategorijas {
     height: 43px;
