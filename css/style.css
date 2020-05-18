@@ -67,8 +67,20 @@ body{
     text-align: center;
     padding: 7px;
 }
-.kategorija_text{
+.partika{
     border-bottom: 1px solid #FFC107;
+    padding: 0 10px;
+}
+.partika{
+    border-bottom: 1px solid #ff6301;
+    padding: 0 10px;
+}
+.produkts{
+    border-bottom: 1px solid #03a9f4;
+    padding: 0 10px;
+}
+.veseliba{
+    border-bottom: 1px solid #56dea7;
     padding: 0 10px;
 }
 .element_info {
