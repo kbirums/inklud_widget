@@ -94,11 +94,6 @@ body{
     width: 90%;
     margin: 0 auto;
 }
-.poga:hover{
-  background: #f5cc05;
-  color: black;
-}
-
 .sidebar {
     position: relative;
     width: 300px;
