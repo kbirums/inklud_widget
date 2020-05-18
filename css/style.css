@@ -15,13 +15,13 @@ body{
       background: white;
       height: 410px;
   }
-  .widget-header {
+  .widget{
+    background-image: url(img/1.jpg);
       padding: 1px;
       height: 100px;
       width: 100%;
   }
 .w_uzruna {
-  background-image: url(img/1.jpg);
     position: relative;
     padding: 1px;
 }
@@ -132,7 +132,7 @@ body{
 body{
     width: 100%;
 }
-.widget-header {
+.widget{
     padding: 1px;
     height: 100px;
     width: 100%;
