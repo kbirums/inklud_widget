@@ -68,19 +68,19 @@ body{
     padding: 7px;
 }
 .partika{
-    border-bottom: 1px solid #FFC107;
+    border-bottom: 2px solid #FFC107;
     padding: 0 10px;
 }
 .partika{
-    border-bottom: 1px solid #ff6301;
+    border-bottom: 2px solid #ff6301;
     padding: 0 10px;
 }
 .produkts{
-    border-bottom: 1px solid #03a9f4;
+    border-bottom: 2px solid #03a9f4;
     padding: 0 10px;
 }
 .veseliba{
-    border-bottom: 1px solid #56dea7;
+    border-bottom: 2px solid #56dea7;
     padding: 0 10px;
 }
 .element_info {
