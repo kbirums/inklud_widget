@@ -56,11 +56,17 @@ body{
     box-shadow: 0px 1px 5px #636363;
 }
 .kategorija {
-    border-bottom: 1px solid #fcd700;
+    left: -100px;
+    bottom: -370px;
+    position: absolute;
+    background: white;
+    height: 400px;
+    width: 400px;
+    border-radius: 500px;
     font-size: 0.85rem;
-    width: 50%;
     margin: 0 auto;
     text-align: center;
+    padding: 7px;
 }
 .element_info {
     display: -webkit-box;
