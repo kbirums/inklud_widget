@@ -156,39 +156,6 @@ body{
     width: 100%;
 }
 .widget{
-    padding: 1px;
     width: 100%;
-}
-.pirma-lapa{
-    width: 100%;
-    padding:5px;
-  }
-.uzruna_teksts{
-  display:none;
-}
-.elementi{
-    display: flex;
-    overflow: hidden;
-    overflow-x: scroll;
-}
-#w_logo{
-    margin: 0 auto;
-    width: 90%;
-}
-.w_uzruna {
-    position: relative;
-    padding: 0;
-}
-.w_elements_item {
-    align-items: stretch;
-    flex-wrap: wrap;
-    float: left;
-    display: flex;
-}
-.virsraksts {
-  font-weight: 600;
-    text-transform: uppercase;
-    font-size: 1rem;
-    padding: 5px 0;
 }
 }
