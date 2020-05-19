@@ -166,6 +166,7 @@ body{
     padding-left: 40px;
 }
 .r_elements_item {
+    max-width: 32%;
     width: 32%;
     display: block;
     background: white;
