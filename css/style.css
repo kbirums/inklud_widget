@@ -123,6 +123,12 @@ body{
     margin: 0 auto;
     margin-bottom: 5px;
 }
+/*/ Raksta inklūdes sākums /*/
+.raksts{
+  width: 604px;
+}
+
+/*/ Saidbāra inklūdes sākums /*/
 .sidebar {
     position: relative;
     width: 300px;
