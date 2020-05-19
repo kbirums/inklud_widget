@@ -22,8 +22,8 @@ body{
       padding: 15px;
       height: 100%;
   }
-.w_uzruna {
-      height: 100px;
+  .w_uzruna {
+      height: 90px;
       padding: 1px;
   }
 #w_logo {
@@ -113,12 +113,14 @@ body{
     font-size: 0.85rem;
 }
 .poga {
+    width: 70%;
     cursor: pointer;
-    margin: 7px 5px;
-    background: #424242;
-    color: white;
-    padding: 5px;
+    border: 1px solid grey;
+    color: #080808;
+    padding: 4px;
     text-align: center;
+    margin: 0 auto;
+    margin-bottom: 5px;
 }
 .sidebar {
     position: relative;
