@@ -92,8 +92,8 @@ body{
     -webkit-line-clamp: 3;
     -webkit-box-orient: vertical;
     text-overflow: ellipsis;
-    height: 79px;
-    padding: 0px 10px;
+    height: 80px;
+    padding: 0 10px;
     overflow: hidden;
 }
 .picture {
