@@ -39,7 +39,7 @@ body{
 .kategorija{
     font-size: 0.8rem;
 }
-.elementi{
+.elementi {
     display: inline-flex;
 }
 #uzruna1 {
@@ -49,6 +49,8 @@ body{
     margin: 0;
 }
 .w_elements_item {
+    width: 24%;
+    display: block;
     background: white;
     margin: 0px 5px;
     box-shadow: 0px 1px 5px #80808066;
@@ -139,6 +141,16 @@ body{
     max-width: 330px;
     float: left;
     padding-left: 40px;
+}
+.r_elements_item {
+    width: 32%;
+    display: block;
+    background: white;
+    margin: 0px 5px;
+    box-shadow: 0px 1px 5px #80808066;
+}
+.r_elements_item:hover {
+    box-shadow: 0px 1px 5px #636363;
 }
 @media screen and (max-width: 700px){
 .pirma-lapa{display: none}
