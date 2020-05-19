@@ -20,7 +20,6 @@ body{
       background-blend-mode: screen;
       background-image: url(https://kbirums.github.io/inklud_widget/img/1.jpg);
       padding: 15px;
-      height: 100%;
   }
   .w_uzruna {
       height: 75px;
@@ -124,15 +123,15 @@ body{
     margin-bottom: 5px;
 }
 /*/ Raksta inklūdes sākums /*/
-.raksts{
-  width: 604px;
+.raksts {
+    width: 604px;
+    margin: 0 auto;
 }
 r_widget{
   background: #ffffffcf;
   background-blend-mode: screen;
   background-image: url(https://kbirums.github.io/inklud_widget/img/1.jpg);
   padding: 0 5px;
-  height: 100%;
 }
 @media screen and (max-width: 700px){
 .pirma-lapa{display: none}
