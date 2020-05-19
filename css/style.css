@@ -194,6 +194,12 @@ body{
 .r_elements_item:nth-child(3){
 display:none;
 }
+.r_elements_item {
+    max-width: 44%;
+    width: 100%;
+  }
+}
+
 /*/ Saidbāra inklūdes sākums /*/
 .sidebar {
     position: relative;
