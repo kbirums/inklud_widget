@@ -131,17 +131,16 @@ body{
     margin: 0 auto;
 }
 .r_kategorija{
-    left: -100px;
-    bottom: -370px;
+    left: -105px;
+    bottom: -373px;
     position: absolute;
     background: white;
     height: 400px;
     width: 400px;
     border-radius: 500px;
     font-size: 0.85rem;
-    margin: 0 auto;
     text-align: center;
-    padding: 7px;
+    padding: 5px;
 }
 .r_picture {
     width: 100%;
