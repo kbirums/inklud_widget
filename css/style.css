@@ -13,7 +13,7 @@ body{
       margin: 0 auto;
       width: 850px;
       background: white;
-      height: 410px;
+      height: 380px;
   }
 .widget {
       background: #ffffffcf;
@@ -23,13 +23,14 @@ body{
       height: 100%;
   }
   .w_uzruna {
-      height: 90px;
+      height: 75px;
       padding: 1px;
   }
-#w_logo {
-    width: 340px;
-    float: left;
-}
+  #w_logo {
+      padding: 10px;
+      width: 300px;
+      float: left;
+  }
 .uzruna_teksts {
     float: left;
     padding-left: 30px;
@@ -37,6 +38,9 @@ body{
 }
 .kategorija{
     font-size: 0.8rem;
+}
+.elementi{
+    display: inline-block;
 }
 #uzruna1 {
     font-size: 25;
