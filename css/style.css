@@ -27,8 +27,9 @@ body{
   }
   #w_logo {
       padding: 10px;
-      max-width: 300px;
+      max-width: 330px;
       float: left;
+      padding-left: 40px;
   }
 .uzruna_teksts {
     float: left;
@@ -127,11 +128,17 @@ body{
     width: 604px;
     margin: 0 auto;
 }
-r_widget{
+.r_widget{
   background: #ffffffcf;
   background-blend-mode: screen;
   background-image: url(https://kbirums.github.io/inklud_widget/img/1.jpg);
   padding: 0 5px;
+}
+#r_logo {
+    padding: 10px;
+    max-width: 330px;
+    float: left;
+    padding-left: 40px;
 }
 @media screen and (max-width: 700px){
 .pirma-lapa{display: none}
