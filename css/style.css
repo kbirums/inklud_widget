@@ -130,6 +130,10 @@ body{
     width: 604px;
     margin: 0 auto;
 }
+.r_uzruna {
+    height: 75px;
+    padding: 1px;
+}
 .r_widget{
   background: #ffffffcf;
   background-blend-mode: screen;
