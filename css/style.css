@@ -9,7 +9,7 @@ body{
   max-width: 1220px;
   margin: 0 auto;
   }
-  .pirma-lapa {
+.pirma-lapa {
       margin: 0 auto;
       width: 850px;
       background: white;
@@ -127,7 +127,17 @@ body{
 .raksts{
   width: 604px;
 }
-
+@media screen and (max-width: 700px){
+.pirma-lapa{display: none}
+.sidebar{display: none}
+body{
+    width: 100%;
+}
+.raksts{
+  width: 100%;
+  padding:0 5px;
+}
+}
 /*/ Saidbāra inklūdes sākums /*/
 .sidebar {
     position: relative;
