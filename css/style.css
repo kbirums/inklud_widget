@@ -92,8 +92,8 @@ body{
     -webkit-line-clamp: 3;
     -webkit-box-orient: vertical;
     text-overflow: ellipsis;
-    height: 85px;
-    padding: 0 10px;
+    height: 79px;
+    padding: 0px 10px;
     overflow: hidden;
 }
 .picture {
@@ -181,6 +181,11 @@ body{
     text-transform: uppercase;
     margin: 0;
 }
+.uzruna_teksts {
+    text-align: center;
+    padding-top: 0;
+}
+
 @media screen and (max-width: 700px){
 .pirma-lapa{display: none}
 .sidebar{display: none}
