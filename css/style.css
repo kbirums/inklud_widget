@@ -238,6 +238,12 @@ display:none;
 .s_elementi {
     display: block;
 }
+.s_widget{
+    background: #ffffffcf;
+    background-blend-mode: screen;
+    background-image: url(https://kbirums.github.io/inklud_widget/img/1.jpg);
+    padding: 15px;
+}
 .s_elements_item {
     width: 100%;
     margin: 4px 0;
