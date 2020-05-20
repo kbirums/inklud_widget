@@ -239,6 +239,9 @@ display:none;
 .s_elementi {
     display: block;
 }
+s_uzruna{
+    padding: 5px;
+}
 .s_widget {
     padding: 9px;
     background: #ffffffcf;
