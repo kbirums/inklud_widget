@@ -235,6 +235,9 @@ display:none;
     width: 300px;
     margin: 0 auto;
 }
+.s_elementi {
+    display: block;
+}
 .s_elements_item {
     width: 100%;
     margin: 4px 0;
