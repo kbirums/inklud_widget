@@ -196,15 +196,12 @@ body{
 .r_elements_item:hover {
     box-shadow: 0px 1px 5px #636363;
 }
-.rm_element_info {
-    display: -webkit-box;
-    -webkit-line-clamp: 10;
-    -webkit-box-orient: vertical;
-    text-overflow: ellipsis;
-    height: 100%;
-    margin: 4px 0;
-    padding: 0 10px;
-    overflow: hidden;
+.rm_elements_item {
+    padding: 5px;
+    display: block;
+    background: white;
+    margin: 0px 5px;
+    box-shadow: 0px 1px 5px #80808066;
 }
 .rm_elements_item:hover {
     box-shadow: 0px 1px 5px #636363;
