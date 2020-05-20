@@ -250,10 +250,9 @@ display:none;
     border: 1px solid #f1f1f1;
     display: block;
 }
-#s_logo{
+.s_logo{
     width: 90%;
     margin: 0 auto;
-    float:left;
 }
 .s_element_info {
     min-height: 130px;
