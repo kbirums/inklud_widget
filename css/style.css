@@ -221,7 +221,8 @@ display:none;
     padding-top: 7px;
 }
 .pavadteksts {
-    font-size: 0.8rem;
+    overflow: hidden;
+    font-size: 0.85rem;
 }
 .r_kategorija {
     left: -115px;
@@ -286,13 +287,13 @@ display:none;
   height: 50px;
 }
 .s_kategorija {
-    left: -175px;
-    bottom: -564px;
+    left: -169px;
+    bottom: -570px;
     position: absolute;
-    background: white;
+    background: #ffffff;
     height: 600px;
     width: 600px;
-    border-radius: 500px;
+    border-radius: 999px;
     font-size: 1rem;
     text-align: center;
     padding: 5px;
