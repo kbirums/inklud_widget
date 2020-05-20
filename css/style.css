@@ -49,6 +49,7 @@ body{
     margin: 0;
 }
 .w_elements_item {
+    padding: 5px;
     width: 24%;
     display: block;
     background: white;
@@ -167,6 +168,7 @@ body{
     margin: 0 auto;
 }
 .r_elements_item {
+    padding: 5px;
     max-width: 32%;
     width: 32%;
     display: block;
