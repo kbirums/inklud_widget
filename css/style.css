@@ -85,6 +85,9 @@ body{
     padding: 0 10px;
 }
 .veseliba{
+    text-align: center;
+    width: 50%;
+    margin: 0 auto;
     border-bottom: 2px solid #56dea7;
     padding: 0 10px;
 }
@@ -229,7 +232,6 @@ body{
     padding-right: 10px;
     margin: 4px 0;
     overflow: hidden;
-    width: 50%;
 }
 #r_uzruna {
     text-align: center;
