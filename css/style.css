@@ -146,8 +146,9 @@ body{
     padding: 5px;
 }
 .rm_kategorija {
-    left: -115px;
-    bottom: -377px;
+    z-index: 1;
+    left: 144px;
+    bottom: -96px;
     position: absolute;
     background: white;
     height: 400px;
