@@ -114,16 +114,16 @@ body{
     font-size: 15px;
     font-weight: 500;
     white-space: nowrap;
-    padding: 0px 0 5px 0;
+    padding: 5px 0;
     overflow: hidden;
 }
 .rm_virsraksts {
     text-align: center;
     text-transform: uppercase;
-    font-size: 15px;
+    font-size: 16px;
     font-weight: 500;
     white-space: nowrap;
-    padding: 0px 0 5px 0;
+    padding: 5px 0;
     overflow: hidden;
 }
 .pavadteksts {
@@ -132,7 +132,7 @@ body{
 }
 .rm_pavadteksts {
     line-height: 1.3;
-    margin-bottom: 11px;
+    margin-bottom: 3px;
     font-size: 14px;
     overflow: hidden;
 }
@@ -360,7 +360,7 @@ display:none;
     position: relative;
 }
 .s_pavadteksts {
-    font-size: 0.85rem;
+    font-size: 15px;
 }
 @media screen and (max-width: 700px){
 body{
