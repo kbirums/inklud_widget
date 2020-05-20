@@ -268,7 +268,18 @@ display:none;
 .space{
   height: 50px;
 }
-
+.s_kategorija {
+    left: -162px;
+    bottom: -564px;
+    position: absolute;
+    background: white;
+    height: 600px;
+    width: 600px;
+    border-radius: 500px;
+    font-size: 1rem;
+    text-align: center;
+    padding: 5px;
+}
 @media screen and (max-width: 700px){
 body{
     width: 100%;
