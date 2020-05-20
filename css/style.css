@@ -155,8 +155,9 @@ body{
     padding: 1px;
 }
 .r_widget {
-    padding: 5px;
+    padding: 9px;
     background: #ffffffcf;
+    background-size: cover;
     background-blend-mode: screen;
     background-image: url(https://kbirums.github.io/inklud_widget/img/1.jpg);
 }
@@ -238,11 +239,12 @@ display:none;
 .s_elementi {
     display: block;
 }
-.s_widget{
+.s_widget {
+    padding: 9px;
     background: #ffffffcf;
+    background-size: cover;
     background-blend-mode: screen;
     background-image: url(https://kbirums.github.io/inklud_widget/img/1.jpg);
-    padding: 15px;
 }
 .s_elements_item {
     width: 100%;
