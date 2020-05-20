@@ -162,7 +162,7 @@ body{
 }
 .rm_kategorija {
     z-index: 1;
-    left: 154px;
+    left: 145px;
     bottom: -120px;
     position: absolute;
     background: white;
@@ -179,7 +179,6 @@ body{
 .rm_picture {
     float: left;
     width: 50%;
-    min-height: 92px;
     overflow: hidden;
     position: relative;
 }
