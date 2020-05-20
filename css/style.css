@@ -239,7 +239,7 @@ display:none;
 .s_elementi {
     display: block;
 }
-s_uzruna{
+.s_uzruna{
     padding: 5px;
 }
 .s_widget {
@@ -263,6 +263,15 @@ s_uzruna{
 #s_logo{
     width: 90%;
     margin: 0 auto;
+}
+.s_virsraksts {
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 1.5rem;
+    font-weight: 500;
+    white-space: nowrap;
+    padding: 0px 0 5px 0;
+    overflow: hidden;
 }
 .s_element_info {
     min-height: 130px;
