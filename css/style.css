@@ -114,7 +114,20 @@ body{
     padding: 0px 0 5px 0;
     overflow: hidden;
 }
+.rm_virsraksts {
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 15px;
+    font-weight: 500;
+    white-space: nowrap;
+    padding: 0px 0 5px 0;
+    overflow: hidden;
+}
 .pavadteksts {
+    font-size: 14px;
+    overflow: hidden;
+}
+.rm_pavadteksts {
     font-size: 14px;
     overflow: hidden;
 }
