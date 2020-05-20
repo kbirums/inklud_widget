@@ -208,7 +208,7 @@ body{
 }
 .rm_element_info {
     display: -webkit-box;
-    -webkit-line-clamp: 3;
+    -webkit-line-clamp: 9;
     -webkit-box-orient: vertical;
     text-overflow: ellipsis;
     margin: 4px 0;
