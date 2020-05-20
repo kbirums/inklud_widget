@@ -147,16 +147,13 @@ body{
 }
 .rm_kategorija {
     z-index: 1;
-    left: 144px;
-    bottom: -96px;
+    left: 154px;
+    bottom: -120px;
     position: absolute;
     background: white;
-    height: 400px;
-    width: 400px;
+    height: 500px;
+    width: 500px;
     border-radius: 500px;
-    font-size: 0.85rem;
-    text-align: center;
-    padding: 5px;
 }
 .r_picture {
     width: 100%;
