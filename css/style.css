@@ -59,8 +59,8 @@ body{
     box-shadow: 0px 1px 5px #636363;
 }
 .kategorija {
-    left: -100px;
-    bottom: -370px;
+    left: -108px;
+    bottom: -375px;
     position: absolute;
     background: white;
     height: 400px;
@@ -107,14 +107,15 @@ body{
 .virsraksts {
     text-align: center;
     text-transform: uppercase;
-    font-size: 1rem;
+    font-size: 15px;
     font-weight: 500;
     white-space: nowrap;
-    padding: 5px 0 5px 0;
+    padding: 0px 0 5px 0;
     overflow: hidden;
 }
 .pavadteksts {
-    font-size: 0.85rem;
+    font-size: 14px;
+    overflow: hidden;
 }
 .poga {
     width: 70%;
@@ -124,7 +125,6 @@ body{
     padding: 4px;
     text-align: center;
     margin: 0 auto;
-    margin-top: 5px;
     margin-bottom: 5px;
 }
 /*/ Raksta inklūdes sākums /*/
@@ -132,9 +132,9 @@ body{
     width: 604px;
     margin: 0 auto;
 }
-.r_kategorija{
-    left: -105px;
-    bottom: -373px;
+.r_kategorija {
+    left: -115px;
+    bottom: -377px;
     position: absolute;
     background: white;
     height: 400px;
@@ -146,7 +146,6 @@ body{
 }
 .r_picture {
     width: 100%;
-    padding: 5px;
     height: 130px;
     overflow: hidden;
     position: relative;
@@ -185,7 +184,7 @@ body{
     text-transform: uppercase;
     margin: 0;
 }
-r_uzruna_teksts {
+.r_uzruna_teksts {
     text-align: center;
 }
 
@@ -301,10 +300,12 @@ display:none;
 }
 .s_picture {
     width: 100%;
-    padding: 5px;
     height: 160px;
     overflow: hidden;
     position: relative;
+}
+.s_pavadteksts {
+    font-size: 0.85rem;
 }
 @media screen and (max-width: 700px){
 body{
