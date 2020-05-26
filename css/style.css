@@ -146,15 +146,15 @@ body{
     margin: 0 auto;
 }
 .r_kategorija {
-    left: 35px;
-    width: 60%;
-    bottom: 5px;
+    left: 25px;
+    width: 70%;
+    bottom: 0px;
     position: absolute;
     background: white;
     font-size: 14px;
     margin: 0 auto;
     text-align: center;
-    padding: 3px 0;
+    padding: 4px 0;
 }
 .rm_kategorija {
     left: 35px;
@@ -335,15 +335,15 @@ display:none;
   height: 50px;
 }
 .s_kategorija {
-    left: 35px;
+    left: 50px;
     width: 60%;
-    bottom: 5px;
+    bottom: 0;
     position: absolute;
     background: white;
     font-size: 14px;
     margin: 0 auto;
     text-align: center;
-    padding: 3px 0;
+    padding: 4px 0;
 }
 .s_picture {
     width: 100%;
