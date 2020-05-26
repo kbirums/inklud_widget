@@ -146,26 +146,26 @@ body{
     margin: 0 auto;
 }
 .r_kategorija {
-    left: -115px;
-    bottom: -377px;
+    left: 35px;
+    width: 60%;
+    bottom: 5px;
     position: absolute;
     background: white;
-    height: 400px;
-    width: 400px;
-    border-radius: 500px;
-    font-size: 0.85rem;
+    font-size: 14px;
+    margin: 0 auto;
     text-align: center;
-    padding: 5px;
+    padding: 3px 0;
 }
 .rm_kategorija {
-    z-index: 1;
-    left: 145px;
-    bottom: -120px;
+    left: 35px;
+    width: 60%;
+    bottom: 5px;
     position: absolute;
     background: white;
-    height: 500px;
-    width: 500px;
-    border-radius: 500px;
+    font-size: 14px;
+    margin: 0 auto;
+    text-align: center;
+    padding: 3px 0;
 }
 .r_picture {
     width: 100%;
@@ -335,16 +335,15 @@ display:none;
   height: 50px;
 }
 .s_kategorija {
-    left: -169px;
-    bottom: -570px;
+    left: 35px;
+    width: 60%;
+    bottom: 5px;
     position: absolute;
-    background: #ffffff;
-    height: 600px;
-    width: 600px;
-    border-radius: 999px;
-    font-size: 1rem;
+    background: white;
+    font-size: 14px;
+    margin: 0 auto;
     text-align: center;
-    padding: 5px;
+    padding: 3px 0;
 }
 .s_picture {
     width: 100%;
